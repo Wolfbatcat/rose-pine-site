@@ -543,6 +543,14 @@
 		"tags": ["palette"],
 		"authors": [{"name": "HenriqueHnnm", "url": "https://github.com/Henriquehnnm"}],
 		"has_variants": true
+	},
+
+			{
+                "name": "Archive of Our Own",
+  		"url": "https://github.com/Wolfbatcat/ao3-rose-pine.git",
+		"tags": ["web-ui"],
+		"authors": [{"name": "Wolfbatcat", "url": "https://github.com/Wolfbatcat}],
+		"has_variants": true
 	}
 
 
